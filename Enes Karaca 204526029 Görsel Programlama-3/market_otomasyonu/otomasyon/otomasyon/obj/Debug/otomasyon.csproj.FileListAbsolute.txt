@@ -1,0 +1,55 @@
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.kullanici_girisi.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_kayit.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.kategori.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.urunler.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_guncelle.resources
+D:\2021_2022\gorsel_3_1\otomasyon\otomasyon\obj\Debug\otomasyon.frm_satis.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.AssemblyReference.cache
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.SuggestedBindingRedirects.cache
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_guncelle.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_kayit.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_satis.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.kategori.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.kullanici_girisi.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.urunler.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.cache
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_musteri_kayit.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_musteri_guncelle.resources
+D:\vs2022\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_urunler_guncelle.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.AssemblyReference.cache
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_guncelle.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_kullanici_kayit.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_musteri_guncelle.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_musteri_kayit.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_satis.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.frm_urunler_guncelle.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.kategori.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.kullanici_girisi.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.urunler.resources
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.cache
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\Enes Karaca\Desktop\Enes Karaca 204526029 Görsel Programlama-3\market_otomasyonu\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
